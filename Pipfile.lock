@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "babb175b1547a08c1e62baf15a8aa43df0d80d8085bdfdae73652e564ae806bf"
+            "sha256": "bef78d1d6edc88489b86632a465131a4c9f67619c62270a674a3326cb69d4603"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -45,6 +45,14 @@
             ],
             "index": "pypi",
             "version": "==1.1.7"
+        },
+        "pyimgur": {
+            "hashes": [
+                "sha256:ad22deea062fe8e7412d0bdfc70cbf305a828c6390096d3523ed3d7dbeb2bdff",
+                "sha256:f776ca7f14663bd9ac14a1380db62c87ed32231d159d2d167ad1cb817dcb9144"
+            ],
+            "index": "pypi",
+            "version": "==0.6.0"
         },
         "python-dotenv": {
             "hashes": [

@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 imgurpython = "*"
 python-dotenv = "*"
+pyimgur = "*"
 
 [dev-packages]
 
