@@ -57,3 +57,4 @@ if __name__ == "__main__":
     access_token = auth_token["access_token"]
     refresh_token = auth_token["refresh_token"]
     print(access_token,refresh_token)
+    title,link=imgur.getImg("互換主權.png")
