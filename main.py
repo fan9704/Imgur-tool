@@ -5,7 +5,7 @@ import os
 import pyimgur
 client_id =os.getenv("Client_ID")
 client_secret =os.getenv("Client_secret")
-client_name = os.getenv("Client Name")
+client_name = os.getenv("Client_name")
 # client = ImgurClient(client_id, client_secret)
 
 
